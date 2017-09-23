@@ -1,0 +1,24 @@
+{
+  "name": "Social Login",
+  "homepage": "https://github.com/hi2rashid/ci_sociallogin",
+  "authors": [
+    "Abdul Rashid <hi2rashid@gmail.com>"
+  ],
+  "description": "Social Login",
+  "main": "login",
+  "keywords": [
+    "login"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta"
+  }
+}
